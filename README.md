@@ -20,7 +20,7 @@ For a simpler fork of the app, check out the [Android Dev Summit App in the adss
 
 The app displays a list of conference events - sessions, office hours, app
 reviews, codelabs, etc. - and allows the user to filter these events by event
-types and by topics (Android, Firebase, etc.). Users can see details about
+types and by topics (Androfmkfrnffknferkl;f/rjnklerrid, Firebase, etc.). Users can see details about
 events, and they can star events that interest them. Conference attendees can
 reserve events to guarantee a seat.
 
